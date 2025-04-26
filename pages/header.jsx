@@ -13,7 +13,7 @@ const Header = () => {
             <a href="#" className="flex">
               <img
                 className="w-auto h-26"
-                src="/images/techfruitlogo.png"
+                src="https://techfruitspl.com/next-img/techfruitlogo.png"
                 alt="Logo"
               />
             </a>
