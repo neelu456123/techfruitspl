@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
-import Testimonial from './sections/testimonials';
 
 import CTASection from './components/software';
+import Testimonial from './sections/testimonials'
+
 
 const ComponentName = () => {        
     return (
@@ -47,7 +48,7 @@ const ComponentName = () => {
                 </div>
 
                 <div>
-                    <img className="w-full rounded-3xl" src="https://techfruitspl.com/next-img/banner.jpg" alt="" />
+                    <img className="w-full rounded-3xl" src="https://techfruitspl.com/next-img/banner.png" alt="" />
                 </div>
             </div>
         </div>
