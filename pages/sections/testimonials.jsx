@@ -30,7 +30,7 @@ const testimonialList = [
   },
   {
     author: {
-      fullName: "Ashwini C Sekar",
+      fullName: "Bejoy Arputharaj",
       picture: "https://techfruitspl.com/next-img/testimonial2.png",
       designation: "Executive Assistant/PhantomFX ",
     },
