@@ -21,7 +21,7 @@ const testimonialList = [
   },
   {
     author: {
-      fullName: "Mr.Thirugnanam.S",
+      fullName: "Thirugnanam.S",
       picture: "https://techfruitspl.com/next-img/testimonial3.png",
       designation: "Managing Director/Digital Filmrestore",
     },
